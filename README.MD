@@ -1,6 +1,6 @@
-<img src="appicon.png" alt="Adam's Mockup Unlocker" width="72">
+<img src="appicon.png" alt="Adam's Unlocker" width="72">
 
-## Adam's Mockup Unlocker
+## Adam's Unlocker (Release)
 
 <br>
 
