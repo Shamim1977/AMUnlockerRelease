@@ -1,11 +1,12 @@
-<img src="appicon.png" alt="Adam's Unlocker" width="72">
+<img src="app/images/appicon.png" alt="Adam's Unlocker" width="72">
 
-## Adam's Unlocker (Release)
+## Adam's Unlocker
 
 <br>
 
 
-### 2. Download
+
+### 1. Download
 
 ```
 Windows:
@@ -25,7 +26,7 @@ https://github.com/Shamim1977/AUnlockerRelease/releases/download/v1.0.0/AUnlocke
 ```
 
 
-### 3. Install
+### 2. Install
 
 ```
 Windows:
@@ -55,7 +56,7 @@ Mac:
 Use Installer Inteface
 ```
 
-### 4. Uninstall
+### 3. Uninstall
 
 ```
 Windows: 
@@ -80,14 +81,11 @@ Drag AUnlocker and drop on Trash
 ```
 
 
-
-<br>
-<br>
+### 4. Register with a valid key
 
 
-### Owner
-<strong>Adam Morris</strong>
-https://adamsmockups.com/
+### 5. Unlock files
+
 
 
 <br>
