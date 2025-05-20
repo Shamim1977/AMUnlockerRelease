@@ -36,18 +36,18 @@ Use Installer Interface
 Linux/Ubuntu:
 --------------------------------------------------
 deb:
-chmod +x amunlocker_1.0.0_amd64.deb
-sudo dpkg -i amunlocker_1.0.0_amd64.deb
+chmod +x aunlocker_1.0.0_amd64.deb
+sudo dpkg -i aunlocker_1.0.0_amd64.deb
 
 snap:
 sudo apt update
 sudo apt install snapd
-chmod +x amunlocker_1.0.0_amd64.snap
-sudo snap install --dangerous amunlocker_1.0.0_amd64.snap
+chmod +x aunlocker_1.0.0_amd64.snap
+sudo snap install --dangerous aunlocker_1.0.0_amd64.snap
 
 appimage:
-chmod +x AMUnlocker-1.0.0.AppImage
-Double click on AMUnlocker-1.0.0.AppImage
+chmod +x AUnlocker-1.0.0.AppImage
+Double click on AUnlocker-1.0.0.AppImage
 
 
 Mac:
@@ -61,22 +61,22 @@ Use Installer Inteface
 Windows: 
 --------------------------------------------------
 Run appwiz.cpl
-Select AMUnlocker, Uninstall
+Select AUnlocker, Uninstall
 
 
 Linux/Ubuntu:
 --------------------------------------------------
 deb:
-sudo apt remove amunlocker
+sudo apt remove aunlocker
 
 snap:
-sudo snap uninstall amunlocker_1.0.0_amd64.snap
+sudo snap uninstall aunlocker_1.0.0_amd64.snap
 
 
 Mac:
 --------------------------------------------------
 Go to Applications
-Drag AMUnlocker and drop on Trash
+Drag AUnlocker and drop on Trash
 ```
 
 
