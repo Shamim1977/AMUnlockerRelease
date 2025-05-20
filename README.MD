@@ -9,19 +9,7 @@
 ### 1. Download
 
 ```
-Windows:
-https://github.com/Shamim1977/AUnlockerRelease/releases/download/v1.0.0/AUnlocker.1.0.0.msi
-https://github.com/Shamim1977/AUnlockerRelease/releases/download/v1.0.0/AUnlocker.Setup.1.0.0.exe
-
-
-Linux/Ubuntu:
-https://github.com/Shamim1977/AUnlockerRelease/releases/download/v1.0.0/AUnlocker-1.0.0.AppImage
-https://github.com/Shamim1977/AUnlockerRelease/releases/download/v1.0.0/aunlocker_1.0.0_amd64.deb
-https://github.com/Shamim1977/AUnlockerRelease/releases/download/v1.0.0/aunlocker_1.0.0_amd64.snap
-
-
-MacOS:
-https://github.com/Shamim1977/AUnlockerRelease/releases/download/v1.0.0/AUnlocker-1.0.0.dmg
+https://github.com/Shamim1977/AUnlockerRelease/releases
 
 ```
 
