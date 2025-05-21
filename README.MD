@@ -1,4 +1,4 @@
-<img src="app/images/appicon.png" alt="Adam's Unlocker" width="72">
+<img src="appicon.png" alt="Adam's Unlocker" width="72">
 
 ## Adam's Unlocker
 
